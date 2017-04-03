@@ -1,0 +1,6 @@
+[submodule "opennurbs"]
+	path = opennurbs
+	url = git@github.com:MeshGeometry/opennurbs.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = git@github.com:MeshGeometry/rapidjson.git
