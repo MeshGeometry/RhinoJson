@@ -12,4 +12,4 @@ include_directories("./rapidjson/include/rapidjson")
 add_executable(RhinoJson "main.cpp")
 
 #link
-target_link_libraries(RhinoJson OpenNurbs)
+target_link_libraries(RhinoJson OpenNurbsLib)
